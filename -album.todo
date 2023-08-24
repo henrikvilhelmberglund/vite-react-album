@@ -1,0 +1,7 @@
+Beskrivning:
+
+  ✔ 1. Skapa en array med album-objekt i App.js. @done(23-08-24 10:46)
+    ✔ Arrayen ska innehålla tre album. @done(23-08-24 10:46)
+    ✔ Varje album-objekt ska innehålla albumets namn, samt en array med dess låtar (minst 3 låtar per album). @done(23-08-24 10:46)
+  2. Skapa en dynamisk lösning där du rendera ut en Album.jsx-komponent för varje album i App.js med hjälp av loopar och props.
+    ✔ Skapa ett state som visar och döljer varje enskilt album. @done(23-08-24 10:55)
